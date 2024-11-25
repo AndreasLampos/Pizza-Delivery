@@ -32,8 +32,8 @@ _The first variable is the seed and the second the number of customers_
 
 
 ## Creators
-### Thanos Dimitrakopoulos
-### Andreas Lampos
+### [Athanasios Dimitrakopoulos](https://github.com/ThanosDim1)
+### [Andreas Lampos](https://github.com/AndreasLampos)
 
 
 
