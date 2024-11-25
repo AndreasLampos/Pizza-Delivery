@@ -30,8 +30,6 @@ _The first variable is the seed and the second the number of customers_
 -p3220039-p3220105-pizza.c: Main source file containing the implementation         
 -p3220039-p3220105-pizza.h: Header file with function declarations and data structures
 
-## License
-This project is licensed under the MIT License.
 
 ## Creators
 ### Thanos Dimitrakopoulos
